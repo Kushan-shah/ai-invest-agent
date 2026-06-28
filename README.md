@@ -1,7 +1,5 @@
 # Quorum — AI Investment Research Agent
 
-> **InsideIIM × Altuni AI Labs — AI Product Development Engineer (Intern) Take-Home Assignment**
-
 An institutional-grade, multi-source AI Investment Research Agent that takes a company name, performs autonomous financial research across 6 data providers, runs deterministic financial computations, moderates a Bull vs. Bear committee debate, and delivers a final **Invest or Pass** verdict with full reasoning.
 
 Built with **Next.js 16** (App Router), **LangGraph.js** (StateGraph), and **Google Gemini** (LangChain.js).
@@ -305,9 +303,3 @@ ai-invest-agent/
 │       └── reportStore.js         # IndexedDB client storage
 └── LIMITATIONS.md                 # Documented functional boundaries
 ```
-
----
-
-## Conversation Transcripts & Logs (Bonus)
-
-Full chronological AI/LLM development session logs are preserved in this directory under **`.system_generated/logs/transcript.jsonl`** — the complete record of every design decision, debugging session, and architectural discussion that shaped this product.
