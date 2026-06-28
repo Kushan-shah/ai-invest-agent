@@ -6,6 +6,9 @@ An institutional-grade, multi-source AI Investment Research Agent that takes a c
 
 Built with **Next.js 16** (App Router), **LangGraph.js** (StateGraph), and **Google Gemini** (LangChain.js).
 
+🔗 **Live Demo:** [https://quorum.kushan.codes](https://quorum.kushan.codes)
+📦 **GitHub:** [https://github.com/Kushan-shah/ai-invest-agent](https://github.com/Kushan-shah/ai-invest-agent)
+
 ---
 
 ## Product Screenshots
